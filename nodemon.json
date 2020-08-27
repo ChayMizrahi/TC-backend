@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "Chay_Mizrahi_NodeJs",
+        "MONGO_PASSWORD": "GkZj4xJTVFxwVmuw",
+        "MONGO_DEFAULT_DATABASE": "topCard"
+    }
+}
